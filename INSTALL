@@ -1,0 +1,9 @@
+Building Exillion
+
+See doc/readme-qt.rst for instructions on building Exillion QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Exillion.
+
+See doc/build-*.txt for instructions on building exilliond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Exillion.
